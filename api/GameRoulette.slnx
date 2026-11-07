@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GameRoulette.Api/GameRoulette.Api.csproj" />
+    <Project Path="src/GameRoulette.Domain/GameRoulette.Domain.csproj" />
+    <Project Path="src/GameRoulette.Infrastructure/GameRoulette.Infrastructure.csproj" />
+  </Folder>
+</Solution>
