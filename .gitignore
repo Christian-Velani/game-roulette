@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+# Node / Angular
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+# Segredos e variáveis de ambiente
+.env
+.env.*
+secrets.json
+
+.idea/
+
+Thumbs.db
+.DS_Store
+
+*.log
